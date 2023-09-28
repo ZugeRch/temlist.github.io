@@ -9,5 +9,12 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+        {
+            "user": "Azeronir",
+            "link": "",
+            "percent": "100",
+            "hz": "360"
+
+        }
     ]
 }
