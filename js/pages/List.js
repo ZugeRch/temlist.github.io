@@ -105,18 +105,9 @@ export default {
                     </template>
                     <h3> Правила </h3>
                     <p> Когда вы отправляете рекорд убедитесь что соблюдайте эти правила:</p>
-                    <p> - Прохождение должно быть записано на запись. </p>
-                    <p> - Должен быть рауфутаж прохождения. </p>
-                    <p> - В видео должна быть показана статистика на лвле. </p>
-                    <p> - На видео должны быть клики или тапы. </p>
-                    <p> - Должен быть FPS/TPS Counter, CPS Counter, Time(Если есть мх или любое другое мод меню). </p>
-                    <p> - Если есть Megahack или другое мод-меню то в конце прохождение вы должны показать панель чита. </p>
-                    <p> - Рауфутаж должен быть загружен на Gooogle Drive. </p>
-                    <p> - Ограничение FPS/TPS Bypass - 360 FPS/TPS. </p>
-                    <p> - Не используйте баги, сваг роуты и секрет веи. </p>
-                    <p> - Не присылайте прогресы на облегчённых версиях лвлов. </p>
+                    <p> - Правила в разработке (Саня их украл). </p>
                     <p> </p>
-                    <p> All credit goes to The Shitty list. WEGDPS List is not affiliated with The Shitty list. </p>
+                    <p> All credit goes to The Shitty list. Temlist Lite is not affiliated with The Shitty list. </p>
                 </div>
             </div>
         </main>
